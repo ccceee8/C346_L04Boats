@@ -4,7 +4,8 @@
 This mobile application allows users to view boats for sale, including boat names, images, and descriptions. Its purpose is to help users explore different boats and learn more about their features.
 
 # ScreenShots of App
-Top page screenshot: ![Screenshot_20261029_104322.png](readme_data/Screenshot_20261029_104322.png)<br>
+Top page screenshot: <br>
+![Screenshot_20261029_104322.png](readme_data/Screenshot_20261029_104322.png)
 
-
-Bottom page screenshot: <br>![Screenshot_20261029_104517.png](readme_data/Screenshot_20261029_104517.png)
+Bottom page screenshot: <br>
+![Screenshot_20261029_104517.png](readme_data/Screenshot_20261029_104517.png)
