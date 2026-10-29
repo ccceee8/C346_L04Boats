@@ -1,5 +1,5 @@
 <!-- Create a file README.MD in L04Boats folder and paste following content in it -->
-# L04 Bosts
+# L04 Boats
 
 This mobile application allows users to view boats for sale, including boat names, images, and descriptions. Its purpose is to help users explore different boats and learn more about their features.
 
