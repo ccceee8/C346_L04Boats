@@ -7,4 +7,4 @@ This mobile application allows users to view boats for sale, including boat name
 Top page screenshot: ![Screenshot_20261029_104322.png](readme_data/Screenshot_20261029_104322.png)<br>
 
 
-Bottom page screenshot: ![Screenshot_20261029_104517.png](readme_data/Screenshot_20261029_104517.png)<br>
+Bottom page screenshot: <br>![Screenshot_20261029_104517.png](readme_data/Screenshot_20261029_104517.png)
